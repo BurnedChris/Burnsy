@@ -1,4 +1,4 @@
-![banner](https://github.com/Burnsy/Burnsy/blob/master/banner.png?raw=true)
+![banner](https://github.com/Burnsy/Burnsy/blob/master/github.png?raw=true)
 
 <!--
 **Burnsy/Burnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
