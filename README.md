@@ -1,4 +1,8 @@
-![banner](https://github.com/Burnsy/Burnsy/blob/master/github.png?raw=true)
+![banner](https://github.com/Burnsy/Burnsy/blob/master/github.png?raw=true) 
+
+You are number;
+
+![Visitor Count](https://profile-counter.glitch.me/Burnsy/count.svg)
 
 <!--
 **Burnsy/Burnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
